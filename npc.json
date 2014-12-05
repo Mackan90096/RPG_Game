@@ -1,7 +1,7 @@
 {
   "npc":[
-    {"name":"Bob","id":"eas120","type":"quest","hasQuests":["aed647f"]}
-    {"name":"Earl","id":"dey783","type":"npc","hasQuests":[]}
+    {"name":"Bob","id":"eas120","type":"quest","hasQuests":["aed647f"]},
+    {"name":"Earl","id":"dey783","type":"npc","hasQuests":[]},
     {"name":"Zombie","id":"eds097","type":"mob","hp":10,"drops":[{"xp":1,"cash":1}]}
   ]
 }

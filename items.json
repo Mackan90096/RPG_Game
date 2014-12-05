@@ -1,6 +1,6 @@
 {
   "items": [
-  {"name":"Basic Sword","id":"afgr12","type":"sword","dmg":"1"}
+  {"name":"Basic Sword","id":"afgr12","type":"sword","dmg":"1"},
   {"name":"Basic Helmet","id":"der16","type":"armor","def":"1"}
   ]
 }
