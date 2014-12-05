@@ -1,0 +1,9 @@
+{
+  "saves":[
+    {"id":1,"name":"player","xp":0,"money":0,"cQuest":[],"aQuest":[],"items":[],"stats":[
+      {
+      "zombie_kill":0
+      }]
+    }
+  ]
+}
